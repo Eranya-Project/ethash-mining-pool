@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ethereum/go-ethereum/common/math"
+	"github.com/Eranya-Project/go-etherium/common/math"
 
 	"github.com/techievee/ethash-mining-pool/rpc"
 	"github.com/techievee/ethash-mining-pool/storage"
