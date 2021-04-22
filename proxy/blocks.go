@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ethereum/go-ethereum/common"
+	"github.com/Eranya-Project/go-etherium/common"
 
 	"github.com/techievee/ethash-mining-pool/rpc"
 	"github.com/techievee/ethash-mining-pool/util"
